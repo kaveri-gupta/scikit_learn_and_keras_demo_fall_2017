@@ -5,3 +5,5 @@ h5py
 tensorflow 
 keras 
 sklearn
+pandas
+graphviz
